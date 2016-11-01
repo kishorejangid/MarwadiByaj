@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "896321190875",
+    "project_id": "marwadi-byaj-calculator"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896321190875:android:2a09df6f4ebf7231",
+        "android_client_info": {
+          "package_name": "com.dignaj.android.marwadibyaj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqaBt_oIg6Op1hNNHWLdbArbavUz9SgU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-82301118-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

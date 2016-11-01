@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Marwadi Byaj Calculator</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_principal">Principal (in ₹)</string>
+    <string name="prompt_rate">Interest Rate (in ₹)</string>
+    <string name="prompt_period">Period (in Days)</string>
+    <string name="action_calculate">Calculate</string>
+    <string name="action_calculate_short">Calc</string>
+    <string name="text_interest">Interest:</string>
+    <string name="text_accrued">Accrued Amount:</string>
+    <string name="error_principal_empty">Principal cannot be empty.</string>
+    <string name="error_rate_empty">Interest Rate cannot be empty.</string>
+    <string name="error_period_empty">Period cannot be empty.</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3139166472959780/5879871567</string>
+</resources>
